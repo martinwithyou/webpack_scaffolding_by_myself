@@ -1,0 +1,14 @@
+body{
+	background-color:red;
+	color:white;
+}
+#tupian{
+   background-image: url(../images/bj.png);
+   width:466px;
+   height:453px;
+}
+#b{
+   background-image: url(../images/bottom.png);
+   width:466px;
+   height:453px;
+}
